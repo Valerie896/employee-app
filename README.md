@@ -1,6 +1,7 @@
 ## Employee App
 ### Setup Notes
-Application uses Java 11 and Spring Boot 2.5
+Application uses Java 11 and Spring Boot 2.5.
+
 PostgreSQL was chosen as a main data storage.
 DB connection properties should be set through environment variables:
 1. DB_URL
